@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "name: \"Yay internet!\"\noutput_dir: \".\"\nnavbar:\n  title: \"Home\"\n  right:\n    - text: \"About\"\n      href: about.html\n    - icon: fa-envelope fa-lg\n      href: mailto:<imanerdenator@gmail.com>\n    - icon: fa-github fa-lg\n      href: http://github.com/awu089/\noutput:\n  html_document:\n   theme: flatly",
+    "contents" : "name: \"Yay internet!\"\noutput_dir: \".\"\nnavbar:\n  title: \"Home\"\n  right:\n    - text: \"About\"\n      href: about.html\n    - icon: fa-envelope fa-lg\n      href: mailto:<imanerdenator@gmail.com>\n    - icon: fa-github fa-lg\n      href: http://github.com/awu089/\noutput:\n  html_document:\n   theme: cyborg",
     "created" : 1496767235060.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2904913062",
+    "hash" : "2036341796",
     "id" : "B26F9B28",
-    "lastKnownWriteTime" : 1496767271,
-    "last_content_update" : 1496767271867,
+    "lastKnownWriteTime" : 1496770253,
+    "last_content_update" : 1496770253115,
     "path" : "~/awu089.github.io/_site.yml",
     "project_path" : "_site.yml",
     "properties" : {

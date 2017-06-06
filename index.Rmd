@@ -1,7 +1,7 @@
 ---
-title: "Holy cow!"
+title: "Welcome to [not Jeff]'s website!!"
 ---
 
-### I have a webpage!
+### hi
 
 And I can put all kinds of stuff on it!
