@@ -6,7 +6,7 @@ title: "Alan Wu"
 
 ### You just popped in the Kanye West "Get Right for the Summer" workout tape.
 
-<br><img src="images/alan.jpg" alt="this is me" style="width:85%; border:10px solid"><br>
+<br><img src="images/alan.jpeg" alt="this is me" style="width:50%; border:10px solid"><br>
 
 
 <br>
