@@ -11,6 +11,5 @@ Here is a dog.
            __
       (___()'`;
       /,    /`
-jgs   \\"--\\
 
 If this is for a project or analysis, I recommend giving some details about the R package versions that you used to create the content.
