@@ -8,9 +8,9 @@ This is Alan's github page. It was created 6/6/17.
 
 Here is a dog.
 
-^..^      /
-/_/\_____/
-   /\   /\
-  /  \ /  \
+           __
+      (___()'`;
+      /,    /`
+jgs   \\"--\\
 
 If this is for a project or analysis, I recommend giving some details about the R package versions that you used to create the content.
