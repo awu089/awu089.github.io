@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "---\ntitle: \"About\"\n---\n\n### About this site\n\nThis site was created 6/6/17.\n\nSometimes you need to say a bit about the site -- how it was made, where it's hosted, where the source code can be found. \n\nThis is Alan's github page. It was created 6/6/17.\n\n\nPLEASE SHOW UP.",
+    "contents" : "---\ntitle: \"About\"\n---\n\n### About this site\n\nThis site was created 6/6/17.\n\nSometimes you need to say a bit about the site -- how it was made, where it's hosted, where the source code can be found. \n\nThis is Alan's github page. It was created 6/6/17.\n\nHere is a dog.\n\nIf this is for a project or analysis, I recommend giving some details about the R package versions that you used to create the content.\n",
     "created" : 1496765926785.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "689653761",
+    "hash" : "4280650305",
     "id" : "EE290343",
-    "lastKnownWriteTime" : 1496766360,
-    "last_content_update" : 1496766360712,
+    "lastKnownWriteTime" : 1496767691,
+    "last_content_update" : 1496767691983,
     "path" : "~/awu089.github.io/about.Rmd",
     "project_path" : "about.Rmd",
     "properties" : {
