@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "---\ntitle: \"About\"\n---\n\n### About this site\n\nThis site was created 6/6/17.\n\nSometimes you need to say a bit about the site -- how it was made, where it's hosted, where the source code can be found. \n\nThis is Alan's github page. It was created 6/6/17.\n\nHere is a dog.\n\nIf this is for a project or analysis, I recommend giving some details about the R package versions that you used to create the content.\n  ",
+    "contents" : "---\ntitle: \"Jeff Goldsmith\"\n---\n\n<link rel=\"stylesheet\" href=\"styles.css\" type=\"text/css\">\n\n### Assistant Professor of Biostatistics, Columbia University Mailman School of Public Health\n\n<br><img src=\"images/jeff.jpg\" alt=\"jeff\" style=\"width:85%; border:10px solid\"><br>\n\nI received a BS in mathematics from [Dickinson College](http://www.dickinson.edu) in 2007 and a PhD in Biostatistics from [Johns Hopkins University](http://www.jhsph.edu/departments/biostatistics/) in 2012. My dissertation was advised by [Ciprian Crainiceanu](http://www.biostat.jhsph.edu/~ccrainic/) and [Brian Caffo](https://sites.google.com/view/bcaffo/home), and focused on statistical methods for high-dimensional structured data. I joined Columbia as an assistant professor in 2012.\n\nMy statistical research is generally focused on functional data analysis, and draws heavily from ongoing collaborations with researchers in other disciplines. One major emphasis is the use of motion kinematics to understand motor control, skill learning, and recovery following stroke; another is physical activity measurement and quantification using wearable devices. The page has more information on recent projects. \n\nIn 2013, I founded (with [Todd Ogden](https://www.mailman.columbia.edu/people/our-faculty/to166) and [Phil Reiss](https://works.bepress.com/phil_reiss/)) the Functional Data Analysis Working Group ([FDAWG](https://www.mailman.columbia.edu/research/functional-data-analysis-working-group)) at Columbia Biostat. \n\n<br>\n\n#### Curriculum Vitae\n\nMy full CV is available [here](Downloads/CV_Goldsmith.pdf).\n\n<br>\n\n#### Contact Information\n\nJeff Goldsmith  \n[Department of Biostatistics](http://www.mailman.columbia.edu/academic-departments/biostatistics)  \n[Columbia Mailman School of Public Health](http://www.mailman.columbia.edu/)  \n722 West 168th Street, Room 630  \nNew York, New York 10032  \n\nEmail: [imanerdenator@gmail.com](mailto:imanerdenator@gmail.com)  \nPhone: 212-342-4599 ",
     "created" : 1496765926785.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "188546506",
+    "hash" : "2752534664",
     "id" : "EE290343",
-    "lastKnownWriteTime" : 1496767862,
-    "last_content_update" : 1496767862179,
+    "lastKnownWriteTime" : 1496768751,
+    "last_content_update" : 1496768751463,
     "path" : "~/awu089.github.io/about.Rmd",
     "project_path" : "about.Rmd",
     "properties" : {
